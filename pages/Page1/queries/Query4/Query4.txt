@@ -1,0 +1,6 @@
+SET user {{JSON.stringify({
+        
+        name : Input1.text,
+        email : Input2.text
+        
+})}}
